@@ -7,9 +7,8 @@
 </div>
 
 ---
-<div align="center">
+
 ### 🚀 Futuro Dev. Full Stack
-</div>
 
 <div align="center">
 Cursando Engenharia de Software pelo UNASP, sou apaixonado por projetos desafiadores que me incentivam a aprender novas tecnologias e a aprimorar constantemente o que já sei. Me considero uma pessoa curiosa e dedicada — características que me impulsionam a explorar novas soluções e aplicá-las nos projetos em que estou envolvido.
@@ -26,11 +25,11 @@ Cursando Engenharia de Software pelo UNASP, sou apaixonado por projetos desafiad
 
 ### 📚 Tecnologias que estou aprendendo
 
-<div align="center">
-📖HTML5
-📖CSS3
-📖JAVASCRIPT
-</div>
+
+<p>📖HTML5</p>
+<p>📖CSS3</p>
+<p>📖JAVASCRIPT</p>
+
 
 ---
 
