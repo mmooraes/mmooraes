@@ -10,15 +10,14 @@
 
 ### 🚀 Futuro Dev. Full Stack
 
-Formando em Engenharia de Software pela UNASP, gosto de projetos desafiadores que me impulsionam a aprender novas tecnologias e também a aprimorar o que já sei. Me considero curiosso e dedidacado, coisas que me fazem conhecer coisas novas e 
-aplicar em meus projetos.
+Cursando Engenharia de Software pelo UNASP, sou apaixonado por projetos desafiadores que me incentivam a aprender novas tecnologias e a aprimorar constantemente o que já sei. Me considero uma pessoa curiosa e dedicada — características que me impulsionam a explorar novas soluções e aplicá-las nos projetos em que estou envolvido.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
- 
+
 </div>
 
 ---
@@ -26,7 +25,9 @@ aplicar em meus projetos.
 ### 📚 Tecnologias que estou aprendendo
 
 <div align="center">
-
+📖HTML5
+📖CSS3
+📖JAVASCRIPT
 </div>
 
 ---
@@ -41,6 +42,6 @@ aplicar em meus projetos.
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mmoraes.job@outlool.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
