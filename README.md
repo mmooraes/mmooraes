@@ -2,8 +2,8 @@
 
 <div align="center">
   <h2> Matheus Moraes 👩🏻‍💻</h2>
-  <p>Cursando Enge Git</p>
-  <p><i>Focada em backend, apaixonada por desafios e inovação ✨</i></p>
+  <p>Curssando Engenharia de Software</p>
+  <p><i>Focado em backend, apaixonado por desafios e inovação ✨</i></p>
 </div>
 
 ---
@@ -40,8 +40,5 @@ Cursando Engenharia de Software pelo UNASP, sou apaixonado por projetos desafiad
   </a>
   <a href="https://www.linkedin.com/in/matheus-moraess/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mmoraes.job@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
