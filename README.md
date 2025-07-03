@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2> Matheus Moraes 👩🏻‍💻</h2>
-  <p>Curssando Engenharia de Software</p>
+  <p>Cursando Engenharia de Software</p>
   <p><i>Focado em backend, apaixonado por desafios e inovação ✨</i></p>
 </div>
 
