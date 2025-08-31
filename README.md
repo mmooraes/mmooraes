@@ -11,7 +11,7 @@
 ### 🚀 Futuro Dev. Full Stack
 
 
-Cursando Engenharia de Software pelo UNASP, sou apaixonado por projetos desafiadores que me incentivam a aprender novas tecnologias e a aprimorar constantemente o que já sei. Me considero uma pessoa curiosa e dedicada — características que me impulsionam a explorar novas soluções e aplicá-las nos projetos em que estou envolvido.
+Cursando Engenharia de Software pelo UNASP, sou apaixonado por projetos desafiadores que me incentivam a aprender novas tecnologias e a aprimorar constantemente o que já sei. Me considero uma pessoa curiosa e dedicada, características que me impulsionam a explorar novas soluções e aplicá-las nos projetos em que estou envolvido.
 
 ---
 
