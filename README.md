@@ -26,10 +26,8 @@ Cursando Engenharia de Software pelo UNASP, sou apaixonado por projetos desafiad
 ### 📚 Tecnologias que estou aprendendo
 
 
-<p>📖HTML5</p>
-<p>📖CSS3</p>
-<p>📖JAVASCRIPT</p>
-
+<p>📖 PYTHON </p>
+<p>📖 GIT/ GITHUB</p>
 
 ---
 
